@@ -1,0 +1,16 @@
+namespace Commander.Dtos
+{
+    public class CommandReadDto
+    { // defining properties for command 
+        public int Id {get; set; }
+        
+        
+        public string HowTo { get; set; }
+
+        
+        public string Line { get; set; } // command line snipet to store on database
+
+        
+
+    }
+}
