@@ -27,7 +27,8 @@
 ![image](https://github.com/chrisch0ng/.NETCore-MVC-REST-API-/assets/74153634/8adbf450-fb7d-4c43-9349-efefd2193541)
 
 ### Demonstrating endpoints using Postman:
-#### [HttpGet] Reads the command under given id / all commands 
+#### [HttpGet] Reads the command under given id / ![6234081_sd](https://github.com/chrisch0ng/.NETCore-MVC-REST-API/assets/74153634/f1ccaa99-9578-4b74-bd54-074482f42b3e)
+all commands 
 
 <img width="654" alt="image" src="https://github.com/chrisch0ng/.NETCore-MVC-REST-API-/assets/74153634/c367f5ca-d697-4867-902d-42a45a80374e">
 <img width="653" alt="image" src="https://github.com/chrisch0ng/.NETCore-MVC-REST-API-/assets/74153634/a1ed68ff-65b8-4900-a764-816c1cbbfbb2">
